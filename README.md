@@ -38,5 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moscow138&show_icons=true&locale=en" alt="moscow138" /></p>
 
-<p><img align="center" width="250" height="250" padding-radius="50%" src="https://avatars.githubusercontent.com/u/36522746?v=4" alt="moscow138" /></p>
+<p><img align="center" width="150" height="150" border-radius="50%" src="https://avatars.githubusercontent.com/u/36522746?v=4" alt="moscow138" /></p>
 
