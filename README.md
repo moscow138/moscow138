@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/yBBr3VfseBcVW21z7)]
+[![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)]
 <h1 align="center">Hi 👋, I'm john</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/h8TCXanXK3keuDKo6">
